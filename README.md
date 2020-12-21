@@ -5,7 +5,7 @@ I am a freshman at [Brown University](https://www.brown.edu/) potentially concen
 ## Call me Shri.
 
 - Pronouns: **He/Him**
-- Website: bellala.org
+- Website: [bellala.org](https://bellala.org)
 - Resume: [/resume](https://bellala.org/resume)
 - Social Media: *None!*
 - Hobbies: Reading short stories, Baking, Sewing, and [Rocket League](https://www.rocketleague.com/)
@@ -17,4 +17,4 @@ I am a freshman at [Brown University](https://www.brown.edu/) potentially concen
 > More info on [/projects](https://bellala.org/projects)
 
 - [:microbe: covid-visuals](https://github.com/vskbellala/covid-visuals): Visualization and analysis of COVID-19 in the US
-- [vskbellala.github.io](https://github.com/vskbellala/vskbellala.github.io): My personal website
+- [:evergreen_tree: vskbellala.github.io](https://github.com/vskbellala/vskbellala.github.io): My personal website
