@@ -1,12 +1,12 @@
 # Hi! I'm Venkatsai Bellala.
 
-I am a freshman at [Brown University](https://www.brown.edu/) potentially concentrating in Biomedical Engineering and a member of the [Program in Liberal Medical Education](https://www.brown.edu/academics/medical/plme/).
+I am a freshman at [Brown University](https://www.brown.edu/) potentially concentrating in Biomedical Engineering.
 
 ## Call me Shri.
 
 - Pronouns: **He/Him**
 - Website: [bellala.org](https://bellala.org)
-- Resume: [/resume](https://bellala.org/resume)
+<!-- - Resume: [/resume](https://bellala.org/resume) -->
 - Social Media: *None!*
 - Hobbies: Reading short stories, Baking, Sewing, and [Rocket League](https://www.rocketleague.com/)
 - Familiar with: `Python`, `MATLAB`, `Java`, `JavaScript`, `HTML/CSS`
