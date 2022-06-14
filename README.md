@@ -1,6 +1,6 @@
 # Hi! I'm Venkatsai Bellala.
 
-I am a sophomore at [Brown University](https://www.brown.edu/) concentrating in Biomedical Engineering. But you can call me Shri.
+I am a junior at [Brown University](https://www.brown.edu/) concentrating in Biomedical Engineering. But you can call me Shri.
 
 > More on [/about](https://bellala.org/about)
 
