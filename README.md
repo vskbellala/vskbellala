@@ -8,5 +8,5 @@ I am a senior at [Brown University](https://www.brown.edu/) concentrating in Bio
 I conduct biomechanics research in the [Srivastava Lab](https://sites.brown.edu/srivastavalab/). I also like taking [photos](https://bellala.org/photos) on my film camera.
 
 <div align="center">
-  <img src="https://bellala.org/img/film/rochester-1/000067900030.jpg"/ width='600'>
+  <img src="000067900030.jpg" width='600'>
 </div>
