@@ -1,18 +1,12 @@
 # Hi! I'm Venkatsai Bellala.
 
-I am a junior at [Brown University](https://www.brown.edu/) concentrating in Biomedical Engineering. But you can call me Shri.
-
-> More on [/about](https://bellala.org/about)
+I am a senior at [Brown University](https://www.brown.edu/) concentrating in Biomedical Engineering. But you can call me Shri.
 
 - Pronouns: **He/Him**
 - Website: [bellala.org](https://bellala.org)
-- Familiar with: `Python`, `MATLAB`, `LaTeX`, `HTML/CSS/JS`, `Excel`, `Fusion 360 (CAD)`
-    - Python: `Pandas, Plotly, NumPy`
 
-## Projects
+I conduct biomechanics research in the [Srivastava Lab](https://sites.brown.edu/srivastavalab/). I also like taking [photos](https://bellala.org/photos) on my film camera.
 
-> More on [/projects](https://bellala.org/projects)
-
-- [:microbe: covid-visuals](https://github.com/vskbellala/covid-visuals): Visualization and analysis of COVID-19 in the US
-- [:evergreen_tree: vskbellala.github.io](https://github.com/vskbellala/vskbellala.github.io): My personal website
-- [:sunny: SSW Solar Charger Dashboard](https://github.com/brown-SSW/brown-solar-charger): Online and physical dashboards monitoring solar charger station statistics
+<div align="center">
+  <img src="https://bellala.org/img/film/rochester-1/000067900030.jpg"/ width='600'>
+</div>
