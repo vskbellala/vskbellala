@@ -1,6 +1,6 @@
 # Hi! I'm Venkatsai Bellala.
 
-I am a second-year medical student at the [Warren Alpert Medical School of Brown University](https://medical.brown.edu/). But you can call me Shri.
+I am a third-year medical student at the [Warren Alpert Medical School of Brown University](https://medical.brown.edu/). But you can call me Shri.
 
 - Pronouns: **He/Him**
 - Website: [bellala.org](https://bellala.org)
